@@ -3,7 +3,7 @@
     <div class="footer_box">
       <div class="footer_logo_cont">
         <img src="book_logo.png" alt="">
-      <a href="home.php" class="book_logo">Bookiee</a>
+      <a href="home.php" class="book_logo">Pookiee</a>
 
       </div>
       <p><i class="fas fa-phone"></i> 1234567890</p>
